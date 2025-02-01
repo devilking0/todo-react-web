@@ -50,7 +50,7 @@ This is a simple **To-Do List** web application built using **React** and **Redu
 - **Deleting a Task:** Click the **Delete** button next to a task.
 
 ## Screenshots
-![To-Do App Screenshot](https://via.placeholder.com/800x400.png?text=To-Do+App+UI)
+![To-Do App Screenshot]([https://via.placeholder.com/800x400.png?text=To-Do+App+UI](https://blogger.googleusercontent.com/img/a/AVvXsEgkaWRl8uQcNpZGYc_8q2J4kMbXYXZOjoIHFCxjufy3Pla7EuLI2_GnO89xma7VXhQp6btz_T9rHl0U9Ce5d_MeTWT5G6SCzRyfgJiNCLnRzYtfIxAv79IL5eQ6OVPlyVNOssTpnc_h3yISTdT6TqHWXrITdBGPzy_VR9CcsJ0v4wJyLGjUXOektCUJL_M=w640-h342))
 
 ## Future Enhancements
 🚀 **Persistent Storage (LocalStorage or Firebase)**  
