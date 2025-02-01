@@ -54,7 +54,7 @@ const ToDo = () => {
 				<h1 htmlFor="task" className="text-4xl p-2">
 					Enter Your Task
 				</h1>
-				<div>
+				<div className='ml-2'>
 					<input
 						id="task"
 						type="text"
@@ -66,7 +66,7 @@ const ToDo = () => {
             maxLength='50'
 					/>
 				</div>
-				<button className="addbtn" onClick={addTask}>
+				<button className="addbtn ml-2" onClick={addTask}>
 					Add Task
 				</button>
 
