@@ -51,7 +51,7 @@ const ToDo = () => {
 	return (
 		<div className="flex flex-col items-center w-full min-h-[91vh] max-h-full bg-slate-800">
 			<div>
-				<h1 htmlFor="task" className="text-4xl">
+				<h1 htmlFor="task" className="text-4xl p-2">
 					Enter Your Task
 				</h1>
 				<div>
